@@ -1,4 +1,5 @@
 42-test template
+
 ===========================
 
 A Django 1.6+ project template
